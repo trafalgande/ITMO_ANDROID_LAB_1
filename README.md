@@ -1,4 +1,4 @@
-#### Скриншоты
+## Скриншоты
 * [`activity_one w/ mockup`](https://imgur.com/alDp90Q)
 * [`activity_one w/out mockup`](https://imgur.com/PXp2ODj)
 ***

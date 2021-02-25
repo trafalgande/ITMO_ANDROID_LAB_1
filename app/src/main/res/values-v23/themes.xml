@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">#F1F0EB</item>
+        <item name="colorOnPrimary">#191919</item>
+        <item name="colorPrimaryDark">#DDDDDD</item>
+        <item name="colorAccent">#DDDDDD</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

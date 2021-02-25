@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Откройте брокерский счет быстро и удобно.</string>
+    <string name="btn_open_account">Открыть счет</string>
+    <string name="already_client">Я уже клиент</string>
+    <string name="logo_description">nth</string>
+
+    <string name="a2_main_title">Встречи</string>
+    <string name="a2_title">Ссылка для приглашений</string>
+    <string name="a2_body_text">Нажмите <b>Новая встреча</b>, чтобы получить ссылку и отправить ее тем, кого хотите пригласить</string>
+    <string name="a2_left_btn_text">Новая встреча</string>
+    <string name="a2_right_btn_text">Войти с кодом</string>
+
+
+    <string name="a3_main_title">войти или зарегестрироваться</string>
+    <string name="a3_main_text">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="a3_btn_text">получить код</string>
+    <string name="a3_bottom_text">При входе вы соглашаетесь <a href="placeholder">с условиями</a></string>
+
+
+    <string name="a4_main_text"><b>Отправляйте и получайте сообщения</b></string>
+    <string name="a4_sub_text">Личные сообщения - это приватная переписка в Твиттере. В них можно делиться твитами, медиафайлами и другим контентом.</string>
+    <string name="a4_btn_text">Написать сообщение</string>
+    <string name="a4_header_text">Сообщения</string>
+</resources>

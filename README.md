@@ -4,7 +4,7 @@
 ***
 * [`activity_two w/ mockup`](https://imgur.com/JAeKlbs)
 * [`activity_two w/out mockup`](https://imgur.com/1GEV5N5)
-***
+---
 * [`activity_three w/ mockup`](https://imgur.com/ZF6QsI7)
 * [`activity_three w/out mockup`](https://imgur.com/ckk14rE)
 ***
